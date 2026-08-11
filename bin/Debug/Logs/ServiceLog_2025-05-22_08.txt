@@ -1,0 +1,218 @@
+2025-05-22 08:11:27 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-22 08:11:27 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-22 08:11:27 - 开始处理文件变化...
+2025-05-22 08:11:27 - 开始初始同步...
+2025-05-22 08:11:27 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-22 08:11:27 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:11:27 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-22 08:11:27 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-22 08:11:27 - 开始处理文件变化...
+2025-05-22 08:11:27 - 开始初始同步...
+2025-05-22 08:11:27 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:11:27 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-22 08:11:27 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-22 08:11:27 - 开始处理文件变化...
+2025-05-22 08:11:27 - 开始初始同步...
+2025-05-22 08:11:27 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:11:27 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-22 08:11:27 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-22 08:11:27 - 开始处理文件变化...
+2025-05-22 08:11:27 - 开始初始同步...
+2025-05-22 08:11:27 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:11:27 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-22 08:12:04 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-22 08:12:04 - 开始处理文件变化...
+2025-05-22 08:12:04 - 开始初始同步...
+2025-05-22 08:12:04 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-22 08:12:04 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-22 08:12:04 - 开始初始同步...
+2025-05-22 08:12:04 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-22-Xgame
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-22 08:12:04 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-22 08:12:04 - 开始处理文件变化...
+2025-05-22 08:12:04 - 开始初始同步...
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:12:04 - 开始处理文件变化...
+2025-05-22 08:12:04 - 开始初始同步...
+2025-05-22 08:12:04 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:12:04 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:12:04 - Cloner - 检测到文件变化: Changed - D:/Repositories/Xgame\db
+2025-05-22 08:12:04 - Cloner - 检测到文件变化: Changed - D:/Repositories\Xgame\db
+2025-05-22 08:12:04 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:12:04 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:12:04 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:12:04 - Cloner - 开始处理文件变化: D:/Repositories/Xgame\db
+2025-05-22 08:12:04 - Cloner - 检测到文件变化: Changed - D:/Repositories\Xgame\db\txn-protorevs
+2025-05-22 08:12:04 - Cloner - 开始同步: D:/Repositories/Xgame\db -> E:/2025-05-22-Xgame\db
+2025-05-22 08:12:04 - Cloner - 开始同步: D:/Repositories/Xgame\db -> H:/2025-05-22-Xgame\db
+2025-05-22 08:12:05 - Cloner - 成功处理文件变化: D:/Repositories/Xgame\db
+2025-05-22 08:12:05 - Cloner - 开始处理文件变化: D:/Repositories/Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories\Xgame\db -> G:/2025-05-22-Repositories\Xgame\db
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories/Xgame\db\txn-protorevs -> E:/2025-05-22-Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 成功处理文件变化: D:/Repositories\Xgame\db
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories/Xgame\db\txn-protorevs -> H:/2025-05-22-Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 开始处理文件变化: D:/Repositories\Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 成功处理文件变化: D:/Repositories/Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories\Xgame\db\txn-protorevs -> G:/2025-05-22-Repositories\Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: G:/2025-05-22-Repositories\Xgame\db
+2025-05-22 08:12:05 - Cloner - 成功处理文件变化: D:/Repositories\Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: H:/2025-05-22-Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: G:/2025-05-22-Repositories\Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: E:/2025-05-22-Xgame\db\txn-protorevs
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: H:/2025-05-22-Xgame\db
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: E:/2025-05-22-Xgame\db
+2025-05-22 08:12:05 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:12:05 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:12:05 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-22-Assets
+2025-05-22 08:12:05 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-22-Assets
+2025-05-22 08:12:05 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:12:05 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:12:05 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:12:05 - Cloner - 检测到文件变化: Changed - D:/Repositories\Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 开始处理文件变化: D:/Repositories/Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories/Xgame\db\transactions -> E:/2025-05-22-Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories/Xgame\db\transactions -> H:/2025-05-22-Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 成功处理文件变化: D:/Repositories/Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: H:/2025-05-22-Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: E:/2025-05-22-Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 开始处理文件变化: D:/Repositories\Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 开始同步: D:/Repositories\Xgame\db\transactions -> G:/2025-05-22-Repositories\Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 成功处理文件变化: D:/Repositories\Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 创建目标文件夹: G:/2025-05-22-Repositories\Xgame\db\transactions
+2025-05-22 08:12:05 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-22 08:12:15 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-22 08:12:15 - 开始处理文件变化...
+2025-05-22 08:12:15 - 开始初始同步...
+2025-05-22 08:12:15 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-22 08:12:15 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-22 08:12:15 - 开始处理文件变化...
+2025-05-22 08:12:15 - 开始初始同步...
+2025-05-22 08:12:15 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-22-Xgame
+2025-05-22 08:12:15 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-22 08:12:15 - 开始处理文件变化...
+2025-05-22 08:12:15 - 开始初始同步...
+2025-05-22 08:12:15 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:12:15 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-22 08:12:15 - 开始处理文件变化...
+2025-05-22 08:12:15 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:12:15 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:12:15 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:12:15 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:12:15 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-22-Assets
+2025-05-22 08:12:15 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:12:15 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:12:50 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-22 08:12:50 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-22 08:12:50 - 开始处理文件变化...
+2025-05-22 08:12:50 - 开始初始同步...
+2025-05-22 08:12:50 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-22 08:12:50 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-22 08:12:50 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-22 08:12:50 - 开始处理文件变化...
+2025-05-22 08:12:50 - 开始初始同步...
+2025-05-22 08:12:50 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:50 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-22 08:12:50 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-22 08:12:50 - 开始处理文件变化...
+2025-05-22 08:12:50 - 开始初始同步...
+2025-05-22 08:12:50 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:50 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-22 08:12:50 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-22 08:12:50 - 开始处理文件变化...
+2025-05-22 08:12:50 - 开始初始同步...
+2025-05-22 08:12:50 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:12:50 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-22 08:14:07 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-22 08:14:07 - 开始处理文件变化...
+2025-05-22 08:14:07 - 开始初始同步...
+2025-05-22 08:14:07 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-22 08:14:07 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-22 08:14:07 - 开始处理文件变化...
+2025-05-22 08:14:07 - 开始初始同步...
+2025-05-22 08:14:07 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-22-Xgame
+2025-05-22 08:14:07 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-22 08:14:07 - 开始处理文件变化...
+2025-05-22 08:14:07 - 开始初始同步...
+2025-05-22 08:14:07 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-22 08:14:07 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-22 08:14:07 - 开始处理文件变化...
+2025-05-22 08:14:07 - 开始初始同步...
+2025-05-22 08:14:07 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:14:07 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:14:07 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:14:07 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> E:/2025-05-22-Xgame
+2025-05-22 08:14:07 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:14:10 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:14:10 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:14:10 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:14:10 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:14:10 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:14:10 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:14:11 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:14:21 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:14:27 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-22-Assets
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-22 08:15:28 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-22 08:15:28 - 开始处理文件变化...
+2025-05-22 08:15:28 - 开始初始同步...
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-22 08:15:28 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-22 08:15:28 - 开始处理文件变化...
+2025-05-22 08:15:28 - 开始初始同步...
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-22-Xgame
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-22 08:15:28 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-22 08:15:28 - 开始处理文件变化...
+2025-05-22 08:15:28 - 开始初始同步...
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-22 08:15:28 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-22 08:15:28 - 开始处理文件变化...
+2025-05-22 08:15:28 - 开始初始同步...
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-22-server
+2025-05-22 08:15:28 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> E:/2025-05-22-Xgame
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:15:28 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-22-Repositories
+2025-05-22 08:15:28 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-22-Assets
+2025-05-22 08:15:28 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-22-Xgame
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-22-Assets
+2025-05-22 08:15:28 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-22-Assets
+2025-05-22 08:15:28 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-22 08:15:28 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:16:55 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-22-server
+2025-05-22 08:18:03 - Cloner - 检测到文件变化: Created - C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:03 - Cloner - 开始处理文件变化: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:03 - Cloner - 开始同步: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~ -> E:/2025-05-22-Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:03 - Cloner - 开始同步: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~ -> H:/2025-05-22-Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:03 - Cloner - 成功处理文件变化: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:04 - Cloner - 开始处理文件变化: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:04 - Cloner - 开始同步: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~ -> E:/2025-05-22-Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:04 - Cloner - 开始同步: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~ -> H:/2025-05-22-Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~
+2025-05-22 08:18:04 - Cloner - 成功处理文件变化: C:/Users/50690/Desktop/Xgame/client/Assets\~UnityDirMonSyncFile~35ffbba318bbbf744be3903195e52f99~

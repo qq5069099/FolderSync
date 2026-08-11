@@ -1,0 +1,274 @@
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-23 16:16:25 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-23 16:16:25 - 开始处理文件变化...
+2025-05-23 16:16:25 - 开始初始同步...
+2025-05-23 16:16:25 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-23 16:16:25 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-23 16:16:25 - 开始处理文件变化...
+2025-05-23 16:16:25 - 开始初始同步...
+2025-05-23 16:16:25 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-23 16:16:25 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-23 16:16:25 - 开始处理文件变化...
+2025-05-23 16:16:25 - 开始初始同步...
+2025-05-23 16:16:25 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-23 16:16:25 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-23 16:16:25 - 开始处理文件变化...
+2025-05-23 16:16:25 - 开始初始同步...
+2025-05-23 16:16:25 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:16:25 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:16:28 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:16:28 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:16:28 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:16:31 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:16:31 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:16:31 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:16:31 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:16:31 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:16:31 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:16:31 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:16:31 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:16:31 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:16:38 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:16:38 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:16:38 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:16:38 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:16:38 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:16:38 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:16:38 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:16:38 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:16:38 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:16:39 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:16:39 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:16:39 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:16:39 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:16:39 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:16:39 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:16:39 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:16:39 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:16:41 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:16:42 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:16:42 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:16:42 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:16:42 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:16:42 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:16:42 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:16:42 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:16:42 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:16:42 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:16:42 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:16:42 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:16:42 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:16:42 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:16:42 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:16:42 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-23 16:16:54 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-23 16:16:54 - 开始处理文件变化...
+2025-05-23 16:16:54 - 开始初始同步...
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-23 16:16:54 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-23 16:16:54 - 开始处理文件变化...
+2025-05-23 16:16:54 - 开始初始同步...
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:16:54 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-23 16:16:54 - 开始处理文件变化...
+2025-05-23 16:16:54 - 开始初始同步...
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-23 16:16:54 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-23 16:16:54 - 开始处理文件变化...
+2025-05-23 16:16:54 - 开始初始同步...
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:16:54 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:16:54 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:16:54 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:16:59 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:16:59 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:16:59 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:16:59 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:16:59 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:16:59 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:16:59 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:16:59 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:16:59 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:16:59 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:16:59 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:16:59 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:16:59 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:16:59 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:16:59 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:16:59 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:16:59 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:17:02 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:17:02 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:17:02 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:17:02 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:17:02 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:17:02 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:17:03 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:17:03 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:17:03 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:17:03 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:17:03 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:17:03 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:17:03 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:17:03 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-23 16:18:10 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-23 16:18:10 - 开始处理文件变化...
+2025-05-23 16:18:10 - 开始初始同步...
+2025-05-23 16:18:10 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-23 16:18:10 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-23 16:18:10 - 开始处理文件变化...
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-23 16:18:10 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-23 16:18:10 - 开始处理文件变化...
+2025-05-23 16:18:10 - 开始初始同步...
+2025-05-23 16:18:10 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:18:10 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-23 16:18:10 - 开始处理文件变化...
+2025-05-23 16:18:10 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:18:10 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:18:10 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:18:11 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:18:11 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:18:11 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:18:11 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:18:11 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:18:11 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:18:11 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:18:11 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:18:11 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:18:11 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:18:11 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:18:15 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:18:15 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:18:15 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:18:15 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:18:15 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:18:15 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:18:15 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:18:15 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:18:15 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:18:16 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:18:16 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:18:16 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:18:16 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:18:16 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:18:16 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:18:16 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:18:16 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:18:17 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:18:17 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:18:17 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:18:17 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:18:17 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:18:17 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:18:17 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:18:17 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:18:17 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:18:17 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:18:18 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:18:18 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:18:18 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:18:18 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:18:18 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:18:18 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:18:18 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: D:/Repositories 到 G:/
+2025-05-23 16:21:18 - Cloner - 已启动文件系统监控: D:/Repositories
+2025-05-23 16:21:18 - 开始处理文件变化...
+2025-05-23 16:21:18 - 开始初始同步...
+2025-05-23 16:21:18 - Cloner - 开始同步到目标文件夹: G:/
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: D:/Repositories/Xgame 到 E:/, H:/
+2025-05-23 16:21:18 - Cloner - 已启动文件系统监控: D:/Repositories/Xgame
+2025-05-23 16:21:18 - 开始处理文件变化...
+2025-05-23 16:21:18 - 开始初始同步...
+2025-05-23 16:21:18 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets 到 E:/, H:/
+2025-05-23 16:21:18 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/client/Assets
+2025-05-23 16:21:18 - 开始处理文件变化...
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server 到 E:/, H:/
+2025-05-23 16:21:18 - Cloner - 已启动文件系统监控: C:/Users/50690/Desktop/Xgame/server
+2025-05-23 16:21:18 - 开始处理文件变化...
+2025-05-23 16:21:18 - 开始初始同步...
+2025-05-23 16:21:18 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:21:18 - Cloner - 开始同步到目标文件夹: E:/
+2025-05-23 16:21:18 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:21:18 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> E:/2025-05-23-Xgame
+2025-05-23 16:21:19 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:21:19 - Cloner - 开始同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:21:19 - Cloner - 完成同步文件夹: D:/Repositories -> G:/2025-05-23-Repositories
+2025-05-23 16:21:19 - Cloner - 完成同步文件夹: D:/Repositories/Xgame -> H:/2025-05-23-Xgame
+2025-05-23 16:21:19 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> E:/2025-05-23-Assets
+2025-05-23 16:21:19 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> E:/2025-05-23-server
+2025-05-23 16:21:19 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:21:19 - Cloner - 开始同步到目标文件夹: H:/
+2025-05-23 16:21:19 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:21:19 - Cloner - 开始同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:21:19 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/server -> H:/2025-05-23-server
+2025-05-23 16:21:19 - Cloner - 完成同步文件夹: C:/Users/50690/Desktop/Xgame/client/Assets -> H:/2025-05-23-Assets
+2025-05-23 16:21:24 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:21:24 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:21:24 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:21:24 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:21:24 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:21:24 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:21:24 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:21:25 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:21:25 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:21:25 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:21:25 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:21:25 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:21:25 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:21:25 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:21:25 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:21:25 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:21:25 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> H:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:21:26 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\6c49e4f1-07ad-4ad0-bd67-59de65f1dd3e.vsidx
+2025-05-23 16:21:26 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\972860a5-4f46-484b-8e2b-dcf799df7f1f.vsidx
+2025-05-23 16:21:26 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\b3e5c2e7-851c-4d3f-a84e-eb59b64c7d77.vsidx
+2025-05-23 16:21:26 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\bc8624e0-fe92-4490-b844-02f4a03c566f.vsidx
+2025-05-23 16:21:26 - Cloner - 文件被锁定，跳过: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\FileContentIndex\c6176adc-9b80-4e94-9729-5ae8f1908aa6.vsidx
+2025-05-23 16:21:26 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db
+2025-05-23 16:21:26 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:21:26 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:21:26 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:21:26 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:21:26 - Cloner - 开始复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:21:26 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-wal
+2025-05-23 16:21:26 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db-shm
+2025-05-23 16:21:26 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\SemanticSymbols.db
+2025-05-23 16:21:26 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-wal
+2025-05-23 16:21:26 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db-shm
+2025-05-23 16:21:26 - Cloner - 成功复制文件: C:\Users\50690\Desktop\Xgame\server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db -> E:/2025-05-23-server\.vs\Xgame\CopilotIndices\17.13.444.19527\CodeChunks.db

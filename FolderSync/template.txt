@@ -1,0 +1,502 @@
+﻿
+<ui:Template name="NodeAvatar" src="project://database/Assets/Resources/NodeAvatar.uxml?fileID=9197481963319205126&amp;guid=324304bfab38a754a98114e554cd9a68&amp;type=3#NodeAvatar" />
+
+<ui:Template name="HealthBar" src="project://database/Assets/Resources/Game/HealthBar/HealthBar.uxml?fileID=9197481963319205126&amp;guid=e2abd1230d43eaa4cbd9264b737d5705&amp;type=3#HealthBar" />
+
+<ui:Template name="Rocker" src="project://database/Assets/Resources/Game/Heroes/Rocker/Rocker.uxml?fileID=9197481963319205126&amp;guid=d523d02b65c317a4a87a2eb14096d757&amp;type=3#Rocker" />
+
+<ui:Template name="Common" src="project://database/Assets/Resources/UIBuilder/Common.uxml?fileID=9197481963319205126&amp;guid=e2a97c30be712dd478c06a10a56ccc09&amp;type=3#Common" />
+
+<ui:Template name="Choose_Tower" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Choose_Tower.uxml?fileID=9197481963319205126&amp;guid=8dee9873d003d6c4ab41121c40fab9e9&amp;type=3#Choose_Tower" />
+
+<ui:Template name="CiTiaoItem" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/CiTiaoItem.uxml?fileID=9197481963319205126&amp;guid=3c3051670a0db2247a6acbaa5ac15d5f&amp;type=3#CiTiaoItem" />
+
+<ui:Template name="Game_TC" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Game_TC.uxml?fileID=9197481963319205126&amp;guid=9043a755333253642bae10c95e3b6610&amp;type=3#Game_TC" />
+
+<ui:Template name="Panel_CiTiao" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_CiTiao.uxml?fileID=9197481963319205126&amp;guid=191e8435e4fd6454cb5bfed8be541812&amp;type=3#Panel_CiTiao" />
+
+<ui:Template name="Panel_GameOver" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_GameOver.uxml?fileID=9197481963319205126&amp;guid=cc85a4fdfd44d2f41937b91b99c955fc&amp;type=3#Panel_GameOver" />
+
+<ui:Template name="Panel_GameSetting" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_GameSetting.uxml?fileID=9197481963319205126&amp;guid=5bdb1f98597a9944cb09f1313c03fce8&amp;type=3#Panel_GameSetting" />
+
+<ui:Template name="Panel_GameSuccess" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_GameSuccess.uxml?fileID=9197481963319205126&amp;guid=8600479b903c1ff4abf5586ce48c513b&amp;type=3#Panel_GameSuccess" />
+
+<ui:Template name="Panel_GameView" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_GameView.uxml?fileID=9197481963319205126&amp;guid=fab8addf8c0161648a1e4e5674cc5ce7&amp;type=3#Panel_GameView" />
+
+<ui:Template name="Panel_GameViewrItem" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_GameViewrItem.uxml?fileID=9197481963319205126&amp;guid=7165326f30c15a543b2b04efebcaf439&amp;type=3#Panel_GameViewrItem" />
+
+<ui:Template name="Panel_TanChuang" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_TanChuang.uxml?fileID=9197481963319205126&amp;guid=f4434c2ccda4aff47a1d37d638cfcb51&amp;type=3#Panel_TanChuang" />
+
+<ui:Template name="Panel_TanChuang_T" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_TanChuang_T.uxml?fileID=9197481963319205126&amp;guid=13a2d0dea07794c4eafc70047b17e07d&amp;type=3#Panel_TanChuang_T" />
+
+<ui:Template name="Panel_TongJi" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/Panel_TongJi.uxml?fileID=9197481963319205126&amp;guid=14666fe95c302f24e920162afad80f1b&amp;type=3#Panel_TongJi" />
+
+<ui:Template name="ShangHaiCiTiaoItem" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/ShangHaiCiTiaoItem.uxml?fileID=9197481963319205126&amp;guid=41dc7e73d7d406f458dddd4b5f3e99f9&amp;type=3#ShangHaiCiTiaoItem" />
+
+<ui:Template name="ShangHaiCiTiaoItem2" src="project://database/Assets/Resources/UIBuilder/ChapterSystem/ShangHaiCiTiaoItem2.uxml?fileID=9197481963319205126&amp;guid=1ba3cbe6ea6f94a42afb4caee023df77&amp;type=3#ShangHaiCiTiaoItem2" />
+
+<ui:Template name="DuanZaoItem" src="project://database/Assets/Resources/UIBuilder/ClothingSystem/DuanZaoItem.uxml?fileID=9197481963319205126&amp;guid=a7f1a916e897e7440841002219d5a4d6&amp;type=3#DuanZaoItem" />
+
+<ui:Template name="FenJieItem" src="project://database/Assets/Resources/UIBuilder/ClothingSystem/FenJieItem.uxml?fileID=9197481963319205126&amp;guid=007b0f47cf98d7544b7fc01bf4da602c&amp;type=3#FenJieItem" />
+
+<ui:Template name="PanelClothing_DuanZao" src="project://database/Assets/Resources/UIBuilder/ClothingSystem/PanelClothing_DuanZao.uxml?fileID=9197481963319205126&amp;guid=8d46453f270a5ad409f4c7d29ae7b631&amp;type=3#PanelClothing_DuanZao" />
+
+<ui:Template name="PanelHeroClothing_XiLian" src="project://database/Assets/Resources/UIBuilder/ClothingSystem/PanelHeroClothing_XiLian.uxml?fileID=9197481963319205126&amp;guid=74f8430b89f11bd46b59d5b1a82ff72f&amp;type=3#PanelHeroClothing_XiLian" />
+
+<ui:Template name="ElementLevelItem" src="project://database/Assets/Resources/UIBuilder/ElementSystem/ElementLevelItem.uxml?fileID=9197481963319205126&amp;guid=44d2ac5577f537648b36d5ee3ab0da66&amp;type=3#ElementLevelItem" />
+
+<ui:Template name="ElementSelectTowerItem" src="project://database/Assets/Resources/UIBuilder/ElementSystem/ElementSelectTowerItem.uxml?fileID=9197481963319205126&amp;guid=caec7c33a9cc8994faaed933cff3df04&amp;type=3#ElementSelectTowerItem" />
+
+<ui:Template name="ElementTowerItem" src="project://database/Assets/Resources/UIBuilder/ElementSystem/ElementTowerItem.uxml?fileID=9197481963319205126&amp;guid=55bdbfaeca7864e4eba80a41cf1164ef&amp;type=3#ElementTowerItem" />
+
+<ui:Template name="PanelElement" src="project://database/Assets/Resources/UIBuilder/ElementSystem/PanelElement.uxml?fileID=9197481963319205126&amp;guid=b5cdc10887aa16841839677e70b66648&amp;type=3#PanelElement" />
+
+<ui:Template name="PanelElement_Rule" src="project://database/Assets/Resources/UIBuilder/ElementSystem/PanelElement_Rule.uxml?fileID=9197481963319205126&amp;guid=b90c61da2f097e545b33e0d1f77407b9&amp;type=3#PanelElement_Rule" />
+
+<ui:Template name="PanelElement_SelectTower" src="project://database/Assets/Resources/UIBuilder/ElementSystem/PanelElement_SelectTower.uxml?fileID=9197481963319205126&amp;guid=99baa9e23109a154a92e48fee84a5f13&amp;type=3#PanelElement_SelectTower" />
+
+<ui:Template name="PanelElement_Tip" src="project://database/Assets/Resources/UIBuilder/ElementSystem/PanelElement_Tip.uxml?fileID=9197481963319205126&amp;guid=4d816cd283854354f89ca6dc56fad26d&amp;type=3#PanelElement_Tip" />
+
+<ui:Template name="ElfSkillDetailsItem" src="project://database/Assets/Resources/UIBuilder/ElfSystem/ElfSkillDetailsItem.uxml?fileID=9197481963319205126&amp;guid=8a95807e3cae8414d8cd874b4ea3ad67&amp;type=3#ElfSkillDetailsItem" />
+
+<ui:Template name="Elf_Item" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Elf_Item.uxml?fileID=9197481963319205126&amp;guid=a1da68adccedae64faf625d61bbb4b23&amp;type=3#Elf_Item" />
+
+<ui:Template name="Elf_Item_Have" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Elf_Item_Have.uxml?fileID=9197481963319205126&amp;guid=81496602e670d994db8520991c02ae0c&amp;type=3#Elf_Item_Have" />
+
+<ui:Template name="Panel_Buff_TC" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Buff_TC.uxml?fileID=9197481963319205126&amp;guid=f4df8941759d82346bfd3113ade20fef&amp;type=3#Panel_Buff_TC" />
+
+<ui:Template name="Panel_ElfSkill_Rule" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_ElfSkill_Rule.uxml?fileID=9197481963319205126&amp;guid=8427819dbd2c73541928aa140160e34d&amp;type=3#Panel_ElfSkill_Rule" />
+
+<ui:Template name="Panel_Elf_Buff" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_Buff.uxml?fileID=9197481963319205126&amp;guid=f5842de7193a0f74580e5744ba79cb85&amp;type=3#Panel_Elf_Buff" />
+
+<ui:Template name="Panel_Elf_Buff_XiangXi" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_Buff_XiangXi.uxml?fileID=9197481963319205126&amp;guid=09083883bee833b4aa9f8197accd8d60&amp;type=3#Panel_Elf_Buff_XiangXi" />
+
+<ui:Template name="Panel_Elf_ChuZhan" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_ChuZhan.uxml?fileID=9197481963319205126&amp;guid=3ebe01182f55da34bad9bfb7d0e23f08&amp;type=3#Panel_Elf_ChuZhan" />
+
+<ui:Template name="Panel_Elf_Main" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_Main.uxml?fileID=9197481963319205126&amp;guid=4edeb0bf9dd676444985b84492da23c9&amp;type=3#Panel_Elf_Main" />
+
+<ui:Template name="Panel_Elf_Main_In" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_Main_In.uxml?fileID=9197481963319205126&amp;guid=3fccbf4681e011549a3896998d9a83e9&amp;type=3#Panel_Elf_Main_In" />
+
+<ui:Template name="Panel_Elf_Rule" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_Rule.uxml?fileID=9197481963319205126&amp;guid=3efa76eebccb491498efca6cece691cc&amp;type=3#Panel_Elf_Rule" />
+
+<ui:Template name="Panel_Elf_XX" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_XX.uxml?fileID=9197481963319205126&amp;guid=1324251c4a224834d9af24d9a8532fc7&amp;type=3#Panel_Elf_XX" />
+
+<ui:Template name="Panel_Elf_ZongLan" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_Elf_ZongLan.uxml?fileID=9197481963319205126&amp;guid=3c622e14d2ea7414588e16877d7826af&amp;type=3#Panel_Elf_ZongLan" />
+
+<ui:Template name="Panel_LianXiePaoTa" src="project://database/Assets/Resources/UIBuilder/ElfSystem/Panel_LianXiePaoTa.uxml?fileID=9197481963319205126&amp;guid=0f620275c7009cc418b3015c31e1b8e7&amp;type=3#Panel_LianXiePaoTa" />
+
+<ui:Template name="CaiLiaoItem" src="project://database/Assets/Resources/UIBuilder/EquipmentSystem/CaiLiaoItem.uxml?fileID=9197481963319205126&amp;guid=5856dd5d6fb7d514385d3716c36a0ad3&amp;type=3#CaiLiaoItem" />
+
+<ui:Template name="ChooseItem" src="project://database/Assets/Resources/UIBuilder/EquipmentSystem/ChooseItem.uxml?fileID=9197481963319205126&amp;guid=c009cf1a925929b48a3ec923d68e6671&amp;type=3#ChooseItem" />
+
+<ui:Template name="PenalEquipment_CaiLiao" src="project://database/Assets/Resources/UIBuilder/EquipmentSystem/PenalEquipment_CaiLiao.uxml?fileID=9197481963319205126&amp;guid=d400a8709d75928479656df1ef193d6d&amp;type=3#PenalEquipment_CaiLiao" />
+
+<ui:Template name="PenalEquipment_Choose" src="project://database/Assets/Resources/UIBuilder/EquipmentSystem/PenalEquipment_Choose.uxml?fileID=9197481963319205126&amp;guid=ecfc043383de370478b157c45fe0a380&amp;type=3#PenalEquipment_Choose" />
+
+<ui:Template name="PenalEquipment_Success" src="project://database/Assets/Resources/UIBuilder/EquipmentSystem/PenalEquipment_Success.uxml?fileID=9197481963319205126&amp;guid=53164303cd9b0504093680a70c859856&amp;type=3#PenalEquipment_Success" />
+
+<ui:Template name="FundBoxItem" src="project://database/Assets/Resources/UIBuilder/FundSystem/FundBoxItem.uxml?fileID=9197481963319205126&amp;guid=5a77f0937b3c827449c49b1a986416fe&amp;type=3#FundBoxItem" />
+
+<ui:Template name="FundChapterItem" src="project://database/Assets/Resources/UIBuilder/FundSystem/FundChapterItem.uxml?fileID=9197481963319205126&amp;guid=da377d6500e385f4286272cb15a68340&amp;type=3#FundChapterItem" />
+
+<ui:Template name="FundGemItem" src="project://database/Assets/Resources/UIBuilder/FundSystem/FundGemItem.uxml?fileID=9197481963319205126&amp;guid=122b2c3940b4142469399c1511cc276b&amp;type=3#FundGemItem" />
+
+<ui:Template name="FundLevelItem" src="project://database/Assets/Resources/UIBuilder/FundSystem/FundLevelItem.uxml?fileID=9197481963319205126&amp;guid=a1323d7a65297164da6ceb6f1fecd353&amp;type=3#FundLevelItem" />
+
+<ui:Template name="FundMoney" src="project://database/Assets/Resources/UIBuilder/FundSystem/FundMoney.uxml?fileID=9197481963319205126&amp;guid=3da8c0d8114236a4f8319dad6e9fcb32&amp;type=3#FundMoney" />
+
+<ui:Template name="FundPetItem" src="project://database/Assets/Resources/UIBuilder/FundSystem/FundPetItem.uxml?fileID=9197481963319205126&amp;guid=0225c031f0059bb42aae9b68675fdf6d&amp;type=3#FundPetItem" />
+
+<ui:Template name="NodeIcon_FoudItem" src="project://database/Assets/Resources/UIBuilder/FundSystem/NodeIcon_FoudItem.uxml?fileID=9197481963319205126&amp;guid=ea71aa8061ea07545aadedeb7f7edee5&amp;type=3#NodeIcon_FoudItem" />
+
+<ui:Template name="PanelFund" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund.uxml?fileID=9197481963319205126&amp;guid=8a4d88e8b5ef26c4197f918877c68819&amp;type=3#PanelFund" />
+
+<ui:Template name="PanelFund_Box" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Box.uxml?fileID=9197481963319205126&amp;guid=b4f2fef8e37677849abeade37f3fbed2&amp;type=3#PanelFund_Box" />
+
+<ui:Template name="PanelFund_Box_CunChu" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Box_CunChu.uxml?fileID=9197481963319205126&amp;guid=ef4c64faeef1f9042bfe609a580c2c4b&amp;type=3#PanelFund_Box_CunChu" />
+
+<ui:Template name="PanelFund_Box_DayOne" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Box_DayOne.uxml?fileID=9197481963319205126&amp;guid=a7f701cd507c73640a8258436c4c0d26&amp;type=3#PanelFund_Box_DayOne" />
+
+<ui:Template name="PanelFund_Box_QuXiaoCunChu" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Box_QuXiaoCunChu.uxml?fileID=9197481963319205126&amp;guid=e2ed31b1ed7b6d54da28fcc6ad045562&amp;type=3#PanelFund_Box_QuXiaoCunChu" />
+
+<ui:Template name="PanelFund_Box_Unclock" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Box_Unclock.uxml?fileID=9197481963319205126&amp;guid=02b5f927b73876844a1b2c99b7f0fa30&amp;type=3#PanelFund_Box_Unclock" />
+
+<ui:Template name="PanelFund_Chapter" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Chapter.uxml?fileID=9197481963319205126&amp;guid=f9fa3e0c341b8334c86be40d273eb20c&amp;type=3#PanelFund_Chapter" />
+
+<ui:Template name="PanelFund_Gem" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Gem.uxml?fileID=9197481963319205126&amp;guid=84bbeabefe6800e45ba30379396f6da0&amp;type=3#PanelFund_Gem" />
+
+<ui:Template name="PanelFund_Level" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Level.uxml?fileID=9197481963319205126&amp;guid=a247dcbfd13fcf2438366fa8acf6cb1f&amp;type=3#PanelFund_Level" />
+
+<ui:Template name="PanelFund_Pet" src="project://database/Assets/Resources/UIBuilder/FundSystem/PanelFund_Pet.uxml?fileID=9197481963319205126&amp;guid=e630dd6638d36ea48bea6ef7179d64fb&amp;type=3#PanelFund_Pet" />
+
+<ui:Template name="LabelItem" src="project://database/Assets/Resources/UIBuilder/HeroSystem/LabelItem.uxml?fileID=9197481963319205126&amp;guid=cd5409611e132fc44a5897c8de7027e0&amp;type=3#LabelItem" />
+
+<ui:Template name="LabelItem1" src="project://database/Assets/Resources/UIBuilder/HeroSystem/LabelItem1.uxml?fileID=9197481963319205126&amp;guid=b1d0c8edd1bf62e419b4300066012a3f&amp;type=3#LabelItem1" />
+
+<ui:Template name="LabelItem2" src="project://database/Assets/Resources/UIBuilder/HeroSystem/LabelItem2.uxml?fileID=9197481963319205126&amp;guid=ce6c28594aae0d844b3bb31147ad83d3&amp;type=3#LabelItem2" />
+
+<ui:Template name="PanelEquipment_Reset" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelEquipment_Reset.uxml?fileID=9197481963319205126&amp;guid=53b1bf0f0e742c34881e41e0ed546fd7&amp;type=3#PanelEquipment_Reset" />
+
+<ui:Template name="PanelHero" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHero.uxml?fileID=9197481963319205126&amp;guid=bf92de9243c1f91419618936e80994a9&amp;type=3#PanelHero" />
+
+<ui:Template name="PanelHeroClothing_Details" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHeroClothing_Details.uxml?fileID=9197481963319205126&amp;guid=bbf4ca41aa329ef47a15b22eeec83115&amp;type=3#PanelHeroClothing_Details" />
+
+<ui:Template name="PanelHeroClothing_FenJie" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHeroClothing_FenJie.uxml?fileID=9197481963319205126&amp;guid=2a9ee8f1677ef34459c762e03f9b4e25&amp;type=3#PanelHeroClothing_FenJie" />
+
+<ui:Template name="PanelHeroClothing_TiHuan" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHeroClothing_TiHuan.uxml?fileID=9197481963319205126&amp;guid=7f5abf63beac3924caef5a9e09604854&amp;type=3#PanelHeroClothing_TiHuan" />
+
+<ui:Template name="PanelHeroEquipment_BuffItem" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHeroEquipment_BuffItem.uxml?fileID=9197481963319205126&amp;guid=2d890fe8c75f19e4d93e9a4247bd8f19&amp;type=3#PanelHeroEquipment_BuffItem" />
+
+<ui:Template name="PanelHeroEquipment_Details" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHeroEquipment_Details.uxml?fileID=9197481963319205126&amp;guid=dde67a42f9546cd42945a01da2052000&amp;type=3#PanelHeroEquipment_Details" />
+
+<ui:Template name="PanelHero_Clothing" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHero_Clothing.uxml?fileID=9197481963319205126&amp;guid=275f113a3dd5cf24c920f45efee05120&amp;type=3#PanelHero_Clothing" />
+
+<ui:Template name="PanelHero_Equipment" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelHero_Equipment.uxml?fileID=9197481963319205126&amp;guid=7bee6347b4e45a24ebc4a9972bd06dd3&amp;type=3#PanelHero_Equipment" />
+
+<ui:Template name="PanelJueXing" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelJueXing.uxml?fileID=9197481963319205126&amp;guid=85ff7a88924af9c45ab68f63afd784d7&amp;type=3#PanelJueXing" />
+
+<ui:Template name="PanelQinZhi" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelQinZhi.uxml?fileID=9197481963319205126&amp;guid=108c3f4d0eda71a48bb1e276f1569b15&amp;type=3#PanelQinZhi" />
+
+<ui:Template name="PanelShiZhuang" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang.uxml?fileID=9197481963319205126&amp;guid=1851c6030f291044b9e11d2bd4d2c829&amp;type=3#PanelShiZhuang" />
+
+<ui:Template name="PanelShiZhuangItem" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuangItem.uxml?fileID=9197481963319205126&amp;guid=54e73116ccef29a48ab5f32233912ea8&amp;type=3#PanelShiZhuangItem" />
+
+<ui:Template name="PanelShiZhuang_Buff" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_Buff.uxml?fileID=9197481963319205126&amp;guid=d7dd8bbb093f8e740af26a9031afa97c&amp;type=3#PanelShiZhuang_Buff" />
+
+<ui:Template name="PanelShiZhuang_BuffDetails" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_BuffDetails.uxml?fileID=9197481963319205126&amp;guid=4e03bf6dc3b9a274da6f6b85b1045fd5&amp;type=3#PanelShiZhuang_BuffDetails" />
+
+<ui:Template name="PanelShiZhuang_BuffDetails_Item" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_BuffDetails_Item.uxml?fileID=9197481963319205126&amp;guid=a5dfa462a0bf7704db3ee4267360aa72&amp;type=3#PanelShiZhuang_BuffDetails_Item" />
+
+<ui:Template name="PanelShiZhuang_IconView" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_IconView.uxml?fileID=9197481963319205126&amp;guid=7075a38610e65ea4481d22774915fa6f&amp;type=3#PanelShiZhuang_IconView" />
+
+<ui:Template name="PanelShiZhuang_Mid" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_Mid.uxml?fileID=9197481963319205126&amp;guid=d4d92437e4c7b5442a7ddf91d92b6147&amp;type=3#PanelShiZhuang_Mid" />
+
+<ui:Template name="PanelShiZhuang_Rule" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_Rule.uxml?fileID=9197481963319205126&amp;guid=a0cead2a9fccfe945b987cc34d11e7f5&amp;type=3#PanelShiZhuang_Rule" />
+
+<ui:Template name="PanelShiZhuang_ShiZhuang" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_ShiZhuang.uxml?fileID=9197481963319205126&amp;guid=57a42a9eabc779a4ba0ab1f9ac297a39&amp;type=3#PanelShiZhuang_ShiZhuang" />
+
+<ui:Template name="PanelShiZhuang_SkinShuXing" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelShiZhuang_SkinShuXing.uxml?fileID=9197481963319205126&amp;guid=efe8bd917e3dbff4ea65e362d3c1713d&amp;type=3#PanelShiZhuang_SkinShuXing" />
+
+<ui:Template name="PanelTraining" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelTraining.uxml?fileID=9197481963319205126&amp;guid=d880dfdca2432244ea1144c9a7c68fa3&amp;type=3#PanelTraining" />
+
+<ui:Template name="PanelTraining_MiJiItem" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelTraining_MiJiItem.uxml?fileID=9197481963319205126&amp;guid=f886e660427b43c48bd5328b69fccac9&amp;type=3#PanelTraining_MiJiItem" />
+
+<ui:Template name="PanelTraining_Rule" src="project://database/Assets/Resources/UIBuilder/HeroSystem/PanelTraining_Rule.uxml?fileID=9197481963319205126&amp;guid=16ad08e4c3e05be4cb31ddc3b102c817&amp;type=3#PanelTraining_Rule" />
+
+<ui:Template name="PanelLogin" src="project://database/Assets/Resources/UIBuilder/Login/PanelLogin.uxml?fileID=9197481963319205126&amp;guid=dcda7ebac6f25f341bdf9d1537fa10c3&amp;type=3#PanelLogin" />
+
+<ui:Template name="PanelMail" src="project://database/Assets/Resources/UIBuilder/MailSystem/PanelMail.uxml?fileID=9197481963319205126&amp;guid=c67148a11e829bc4ba265c4b6937d6b5&amp;type=3#PanelMail" />
+
+<ui:Template name="PanelMail_Details" src="project://database/Assets/Resources/UIBuilder/MailSystem/PanelMail_Details.uxml?fileID=9197481963319205126&amp;guid=b0b27c497ea98fb4fb7190c3bf95c291&amp;type=3#PanelMail_Details" />
+
+<ui:Template name="PanelMail_Item" src="project://database/Assets/Resources/UIBuilder/MailSystem/PanelMail_Item.uxml?fileID=9197481963319205126&amp;guid=4e2eb1ff029827849a7d1fb4172981a2&amp;type=3#PanelMail_Item" />
+
+<ui:Template name="NewUXMLTemplate" src="project://database/Assets/Resources/UIBuilder/Main/NewUXMLTemplate.uxml?fileID=9197481963319205126&amp;guid=2648732b67ba36648b8d2f591529c805&amp;type=3#NewUXMLTemplate" />
+
+<ui:Template name="PanelMain" src="project://database/Assets/Resources/UIBuilder/Main/PanelMain.uxml?fileID=9197481963319205126&amp;guid=ee77168534798f7438e0d21216e272e3&amp;type=3#PanelMain" />
+
+<ui:Template name="PanelMainView" src="project://database/Assets/Resources/UIBuilder/Main/PanelMainView.uxml?fileID=9197481963319205126&amp;guid=52131f7da7e16004baa6bf8666495f05&amp;type=3#PanelMainView" />
+
+<ui:Template name="ChengHaoItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/ChengHaoItem.uxml?fileID=9197481963319205126&amp;guid=17348b968fca1e84b82dfcb037f338cf&amp;type=3#ChengHaoItem" />
+
+<ui:Template name="PanelAvatar" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/PanelAvatar.uxml?fileID=9197481963319205126&amp;guid=49dd01b6961df6f43b37424cc6fb4ed3&amp;type=3#PanelAvatar" />
+
+<ui:Template name="PanelAvatar_ChengHao" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/PanelAvatar_ChengHao.uxml?fileID=9197481963319205126&amp;guid=0695b0d5ac4e1be439a1f03b3998a092&amp;type=3#PanelAvatar_ChengHao" />
+
+<ui:Template name="PanelAvatar_XiuGaiNiCheng" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/PanelAvatar_XiuGaiNiCheng.uxml?fileID=9197481963319205126&amp;guid=0ff82bc796ac57c499ba06cb2298027d&amp;type=3#PanelAvatar_XiuGaiNiCheng" />
+
+<ui:Template name="PanelJueSeShuXing" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/PanelJueSeShuXing.uxml?fileID=9197481963319205126&amp;guid=072d49fc93652074ab20c34bfd2bc9c6&amp;type=3#PanelJueSeShuXing" />
+
+<ui:Template name="PanelSelectServer" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/PanelSelectServer.uxml?fileID=9197481963319205126&amp;guid=c8097e51929f7c84195a11b352faf071&amp;type=3#PanelSelectServer" />
+
+<ui:Template name="PanelSelectServer_Tip" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/PanelSelectServer_Tip.uxml?fileID=9197481963319205126&amp;guid=65246d27859a00c4dbaeafc7b4b3a481&amp;type=3#PanelSelectServer_Tip" />
+
+<ui:Template name="SelectServerLeftItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/SelectServerLeftItem.uxml?fileID=9197481963319205126&amp;guid=33a1808c787342f48b0eca0256418b2a&amp;type=3#SelectServerLeftItem" />
+
+<ui:Template name="SelectServerRightItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelAvatar/SelectServerRightItem.uxml?fileID=9197481963319205126&amp;guid=26d0a85ce367a954bbd910fe92d5bec0&amp;type=3#SelectServerRightItem" />
+
+<ui:Template name="PanelBackpack" src="project://database/Assets/Resources/UIBuilder/Main/PanelBackpack/PanelBackpack.uxml?fileID=9197481963319205126&amp;guid=d706b51f2c536754fb04398ef3757cc9&amp;type=3#PanelBackpack" />
+
+<ui:Template name="PanelBuyCoin" src="project://database/Assets/Resources/UIBuilder/Main/PanelBuy/PanelBuyCoin.uxml?fileID=9197481963319205126&amp;guid=cf8422c882cd6a04ab19e3228e385b6f&amp;type=3#PanelBuyCoin" />
+
+<ui:Template name="PanelBuyGem" src="project://database/Assets/Resources/UIBuilder/Main/PanelBuy/PanelBuyGem.uxml?fileID=9197481963319205126&amp;guid=4a5c4232110d0044886af3f1b8e323ee&amp;type=3#PanelBuyGem" />
+
+<ui:Template name="PanelBuyPower" src="project://database/Assets/Resources/UIBuilder/Main/PanelBuy/PanelBuyPower.uxml?fileID=9197481963319205126&amp;guid=21b880a3ef1595045aa8b42c0b45c1eb&amp;type=3#PanelBuyPower" />
+
+<ui:Template name="PanelShop_CoinItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelBuy/PanelShop_CoinItem.uxml?fileID=9197481963319205126&amp;guid=bcd22ba93b7612943a0837e7b238e886&amp;type=3#PanelShop_CoinItem" />
+
+<ui:Template name="PanelShop_GemItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelBuy/PanelShop_GemItem.uxml?fileID=9197481963319205126&amp;guid=fe669a73cd38f224da60084b7b3d69b5&amp;type=3#PanelShop_GemItem" />
+
+<ui:Template name="PanelShop_PowerItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelBuy/PanelShop_PowerItem.uxml?fileID=9197481963319205126&amp;guid=3e8128bb817f71f428e8cbdbc0bdf913&amp;type=3#PanelShop_PowerItem" />
+
+<ui:Template name="Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/Item.uxml?fileID=9197481963319205126&amp;guid=eee3cfbf88a36ba4fbf9bf4ca8c2340b&amp;type=3#Item" />
+
+<ui:Template name="PanelDailyDeals" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals.uxml?fileID=9197481963319205126&amp;guid=532f493ea8bb013499fa84d7a6d99907&amp;type=3#PanelDailyDeals" />
+
+<ui:Template name="PanelDailyDeals_DayGift" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_DayGift.uxml?fileID=9197481963319205126&amp;guid=da41fecc7c21c7042a0c3ce4d8c42cf7&amp;type=3#PanelDailyDeals_DayGift" />
+
+<ui:Template name="PanelDailyDeals_InviteGift" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_InviteGift.uxml?fileID=9197481963319205126&amp;guid=0aeb7395728e510469cf9895ad4c88b5&amp;type=3#PanelDailyDeals_InviteGift" />
+
+<ui:Template name="PanelDailyDeals_InviteGift_ShuoMing" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_InviteGift_ShuoMing.uxml?fileID=9197481963319205126&amp;guid=bf06f1db4a89ff04f9a3fd65ee8d7de1&amp;type=3#PanelDailyDeals_InviteGift_ShuoMing" />
+
+<ui:Template name="PanelDailyDeals_Recharge" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_Recharge.uxml?fileID=9197481963319205126&amp;guid=5a54864e0a4f69d4a9ca4352bd7ee3ed&amp;type=3#PanelDailyDeals_Recharge" />
+
+<ui:Template name="PanelDailyDeals_SaveMoney" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_SaveMoney.uxml?fileID=9197481963319205126&amp;guid=1c5b47060f9263c478a0d855a3e155f6&amp;type=3#PanelDailyDeals_SaveMoney" />
+
+<ui:Template name="PanelDailyDeals_TeJia" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_TeJia.uxml?fileID=9197481963319205126&amp;guid=a4be3b33d68a3114eb097c47497b26da&amp;type=3#PanelDailyDeals_TeJia" />
+
+<ui:Template name="PanelDailyDeals_WeekGift" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/PanelDailyDeals_WeekGift.uxml?fileID=9197481963319205126&amp;guid=eb98d56d1ac9aa94e8e16edccc637479&amp;type=3#PanelDailyDeals_WeekGift" />
+
+<ui:Template name="Recharge_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/Recharge_Item.uxml?fileID=9197481963319205126&amp;guid=3ce021011f09f124b84cafa7354838fb&amp;type=3#Recharge_Item" />
+
+<ui:Template name="SaveMoney_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/SaveMoney_Item.uxml?fileID=9197481963319205126&amp;guid=880eb68037b1e474594f7875e445254f&amp;type=3#SaveMoney_Item" />
+
+<ui:Template name="Tejia_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelDailyDeals/Tejia_Item.uxml?fileID=9197481963319205126&amp;guid=31bb621a478615d4bbd373494a148c94&amp;type=3#Tejia_Item" />
+
+<ui:Template name="PanelExchangeCode" src="project://database/Assets/Resources/UIBuilder/Main/PanelExchangeCode/PanelExchangeCode.uxml?fileID=9197481963319205126&amp;guid=1b57ba330b001bb48800d5433f4be636&amp;type=3#PanelExchangeCode" />
+
+<ui:Template name="BaoXiang_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/BaoXiang_Item.uxml?fileID=9197481963319205126&amp;guid=7734730c20d38ba46bbf9ec54cd72e3c&amp;type=3#BaoXiang_Item" />
+
+<ui:Template name="PanelChoose" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/PanelChoose.uxml?fileID=9197481963319205126&amp;guid=807c8e9f25436544fac23157ff9c5122&amp;type=3#PanelChoose" />
+
+<ui:Template name="PanelChoose_Ietm" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/PanelChoose_Ietm.uxml?fileID=9197481963319205126&amp;guid=b83d7021791b185428652a41e27c2dea&amp;type=3#PanelChoose_Ietm" />
+
+<ui:Template name="PanelGame_TanKuang" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/PanelGame_TanKuang.uxml?fileID=9197481963319205126&amp;guid=c17ce763e93566d47b533f8831b4563f&amp;type=3#PanelGame_TanKuang" />
+
+<ui:Template name="PanelKaiShiyouxi" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/PanelKaiShiyouxi.uxml?fileID=9197481963319205126&amp;guid=c0fabac481e7bc04c9f745a27747f7f4&amp;type=3#PanelKaiShiyouxi" />
+
+<ui:Template name="PanelKaiShiyouxi_In" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/PanelKaiShiyouxi_In.uxml?fileID=9197481963319205126&amp;guid=cf0fcb8753f60ea43a6f511392a21e01&amp;type=3#PanelKaiShiyouxi_In" />
+
+<ui:Template name="Panel_BaoXiangTanChuang" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/Panel_BaoXiangTanChuang.uxml?fileID=9197481963319205126&amp;guid=796a219893ed82f45a2ff4f504bd2c1d&amp;type=3#Panel_BaoXiangTanChuang" />
+
+<ui:Template name="Panel_GuaiWu" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/Panel_GuaiWu.uxml?fileID=9197481963319205126&amp;guid=be501f2ff479bd84abe68d6340aaf67c&amp;type=3#Panel_GuaiWu" />
+
+<ui:Template name="Panel_TiaoZhan" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/Panel_TiaoZhan.uxml?fileID=9197481963319205126&amp;guid=1e95118f0d6550942aaab38532473a8b&amp;type=3#Panel_TiaoZhan" />
+
+<ui:Template name="Panel_ZR" src="project://database/Assets/Resources/UIBuilder/Main/PanelGame/Panel_ZR.uxml?fileID=9197481963319205126&amp;guid=7c3885803fd35a74da958787b126bcde&amp;type=3#Panel_ZR" />
+
+<ui:Template name="LuckyTower_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/LuckyTower_Item.uxml?fileID=9197481963319205126&amp;guid=c7f0ad00017c10a4f9f288812d24606a&amp;type=3#LuckyTower_Item" />
+
+<ui:Template name="PanelLuckyTower" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower.uxml?fileID=9197481963319205126&amp;guid=17ec1449a60507146b603c3cb7922170&amp;type=3#PanelLuckyTower" />
+
+<ui:Template name="PanelLuckyTower_GaiLv" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_GaiLv.uxml?fileID=9197481963319205126&amp;guid=7e33bc4fa3362994da17ca68c4989ddb&amp;type=3#PanelLuckyTower_GaiLv" />
+
+<ui:Template name="PanelLuckyTower_GaiLv1" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_GaiLv1.uxml?fileID=9197481963319205126&amp;guid=5b6149b97d9e6534bb32f9bd69060110&amp;type=3#PanelLuckyTower_GaiLv1" />
+
+<ui:Template name="PanelLuckyTower_GetTower" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_GetTower.uxml?fileID=9197481963319205126&amp;guid=5439dadbb7afde14b8d9069894c64e3e&amp;type=3#PanelLuckyTower_GetTower" />
+
+<ui:Template name="PanelLuckyTower_QiYu" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_QiYu.uxml?fileID=9197481963319205126&amp;guid=a533d68c469ae4247bc84e673efe7dba&amp;type=3#PanelLuckyTower_QiYu" />
+
+<ui:Template name="PanelLuckyTower_QiYuan_XinYuanTower" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_QiYuan_XinYuanTower.uxml?fileID=9197481963319205126&amp;guid=401a89604d5ccad42b6c2d16096cb050&amp;type=3#PanelLuckyTower_QiYuan_XinYuanTower" />
+
+<ui:Template name="PanelLuckyTower_Tip" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_Tip.uxml?fileID=9197481963319205126&amp;guid=dd322c7304b1ba54ea3f195b1df21a35&amp;type=3#PanelLuckyTower_Tip" />
+
+<ui:Template name="PanelLuckyTower_ZhaoMu" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_ZhaoMu.uxml?fileID=9197481963319205126&amp;guid=fa3063a2fb275e64e82a28a15de9116d&amp;type=3#PanelLuckyTower_ZhaoMu" />
+
+<ui:Template name="PanelLuckyTower_ZhaoMu_Refresh" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_ZhaoMu_Refresh.uxml?fileID=9197481963319205126&amp;guid=641aa42dfbc736b4f894ce8336b2f03b&amp;type=3#PanelLuckyTower_ZhaoMu_Refresh" />
+
+<ui:Template name="PanelLuckyTower_ZhaoMu_ZiDong" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/PanelLuckyTower_ZhaoMu_ZiDong.uxml?fileID=9197481963319205126&amp;guid=734dcaf831bad1343a9186c620169f71&amp;type=3#PanelLuckyTower_ZhaoMu_ZiDong" />
+
+<ui:Template name="TowerWish_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelLuckyTower/TowerWish_Item.uxml?fileID=9197481963319205126&amp;guid=9131da88269d36448af9a98a8b2f398b&amp;type=3#TowerWish_Item" />
+
+<ui:Template name="PanelMonthlyCard" src="project://database/Assets/Resources/UIBuilder/Main/PanelMonthlyCard/PanelMonthlyCard.uxml?fileID=9197481963319205126&amp;guid=cf5ba8593d6c47e41b47045f3389a44e&amp;type=3#PanelMonthlyCard" />
+
+<ui:Template name="Myinfo_Clothing" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/Myinfo_Clothing.uxml?fileID=9197481963319205126&amp;guid=b2b49e5543e39274892d3d27d399fb5c&amp;type=3#Myinfo_Clothing" />
+
+<ui:Template name="Myinfo_Elf_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/Myinfo_Elf_Item.uxml?fileID=9197481963319205126&amp;guid=86a23467dfeb83c458c6fe0ddd1af9b1&amp;type=3#Myinfo_Elf_Item" />
+
+<ui:Template name="Myinfo_Equipment" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/Myinfo_Equipment.uxml?fileID=9197481963319205126&amp;guid=fbbb5210ad70c7743a328f9f32c1d9b0&amp;type=3#Myinfo_Equipment" />
+
+<ui:Template name="Myinfo_Pet_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/Myinfo_Pet_Item.uxml?fileID=9197481963319205126&amp;guid=e09ebf57666b0164baa5c83a09a634be&amp;type=3#Myinfo_Pet_Item" />
+
+<ui:Template name="PanelMyinfo" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/PanelMyinfo.uxml?fileID=9197481963319205126&amp;guid=985c1b5c665c5894a95ee8c1d90530ac&amp;type=3#PanelMyinfo" />
+
+<ui:Template name="ShiZhuang_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/ShiZhuang_Item.uxml?fileID=9197481963319205126&amp;guid=3427e28a4dd760d4d8524fde82eb8c33&amp;type=3#ShiZhuang_Item" />
+
+<ui:Template name="Tower_Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelMyinfo/Tower_Item.uxml?fileID=9197481963319205126&amp;guid=ac83fc81331ba254bacba7f8732bc1ec&amp;type=3#Tower_Item" />
+
+<ui:Template name="GuanKaItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/GuanKaItem.uxml?fileID=9197481963319205126&amp;guid=4aa22dee578135849b4c0c56f41dca00&amp;type=3#GuanKaItem" />
+
+<ui:Template name="GuanKaItemTop3" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/GuanKaItemTop3.uxml?fileID=9197481963319205126&amp;guid=09cfad1a42bd3574ea0c263b18a22573&amp;type=3#GuanKaItemTop3" />
+
+<ui:Template name="PanelChaperGift" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelChaperGift.uxml?fileID=9197481963319205126&amp;guid=697c8bc6bab1c794c92ef49132732fea&amp;type=3#PanelChaperGift" />
+
+<ui:Template name="PanelChaperGiftItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelChaperGiftItem.uxml?fileID=9197481963319205126&amp;guid=4d3d63997c0c4b940aed62230982bd4a&amp;type=3#PanelChaperGiftItem" />
+
+<ui:Template name="PanelRanking" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelRanking.uxml?fileID=9197481963319205126&amp;guid=b4162941425de4642b131df535bc09fa&amp;type=3#PanelRanking" />
+
+<ui:Template name="PanelRanking_GuanKa" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelRanking_GuanKa.uxml?fileID=9197481963319205126&amp;guid=3c9fd74e9dc3cb34da6a8e844ac855f8&amp;type=3#PanelRanking_GuanKa" />
+
+<ui:Template name="PanelRanking_ZhanLi" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelRanking_ZhanLi.uxml?fileID=9197481963319205126&amp;guid=19105c77cf478ac43bb55e50d7e1cbd5&amp;type=3#PanelRanking_ZhanLi" />
+
+<ui:Template name="PanelTop5" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelTop5.uxml?fileID=9197481963319205126&amp;guid=c498a8f9df27dc243838553c2a13dd55&amp;type=3#PanelTop5" />
+
+<ui:Template name="PanelTop5Item" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/PanelTop5Item.uxml?fileID=9197481963319205126&amp;guid=7c77e8d1d3af0f940bf012744397df0c&amp;type=3#PanelTop5Item" />
+
+<ui:Template name="ZhanLiItem" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/ZhanLiItem.uxml?fileID=9197481963319205126&amp;guid=89f93b486a137cc4fb18ec7ce242ef33&amp;type=3#ZhanLiItem" />
+
+<ui:Template name="ZhanLiItemTop3" src="project://database/Assets/Resources/UIBuilder/Main/PanelRanking/ZhanLiItemTop3.uxml?fileID=9197481963319205126&amp;guid=227040e7c5b85694c8baba1f117bfe17&amp;type=3#ZhanLiItemTop3" />
+
+<ui:Template name="PanelRewardsGet" src="project://database/Assets/Resources/UIBuilder/Main/PanelRewardsGet/PanelRewardsGet.uxml?fileID=9197481963319205126&amp;guid=df2bab90b7994a3498612175012f47fe&amp;type=3#PanelRewardsGet" />
+
+<ui:Template name="PanelSetting" src="project://database/Assets/Resources/UIBuilder/Main/PanelSetting/PanelSetting.uxml?fileID=9197481963319205126&amp;guid=2da0d2160432f3d49bb3381b1e46a89f&amp;type=3#PanelSetting" />
+
+<ui:Template name="PanelSetting_YinSi" src="project://database/Assets/Resources/UIBuilder/Main/PanelSetting/PanelSetting_YinSi.uxml?fileID=9197481963319205126&amp;guid=ca743e1fbccbe9f47a01acdb67cb88d9&amp;type=3#PanelSetting_YinSi" />
+
+<ui:Template name="PanelSetting_YongHu" src="project://database/Assets/Resources/UIBuilder/Main/PanelSetting/PanelSetting_YongHu.uxml?fileID=9197481963319205126&amp;guid=d77ac21e01a2aff429673216a3d06e35&amp;type=3#PanelSetting_YongHu" />
+
+<ui:Template name="PanelShouChong" src="project://database/Assets/Resources/UIBuilder/Main/PanelShouChong/PanelShouChong.uxml?fileID=9197481963319205126&amp;guid=338981d2818029740a2f7e630c6cc5ea&amp;type=3#PanelShouChong" />
+
+<ui:Template name="PanelYouLi" src="project://database/Assets/Resources/UIBuilder/Main/PanelYouLi/PanelYouLi.uxml?fileID=9197481963319205126&amp;guid=2b058048e99abc84a8187b86b50cfa60&amp;type=3#PanelYouLi" />
+
+<ui:Template name="GaiLvYuanSuan" src="project://database/Assets/Resources/UIBuilder/NodeIcon/GaiLvYuanSuan.uxml?fileID=9197481963319205126&amp;guid=a58a590cd8c53354289e1f10275a3287&amp;type=3#GaiLvYuanSuan" />
+
+<ui:Template name="NodeBottom" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeBottom.uxml?fileID=9197481963319205126&amp;guid=009e725606f33734b8aa076624de7a36&amp;type=3#NodeBottom" />
+
+<ui:Template name="NodeIcon" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon.uxml?fileID=9197481963319205126&amp;guid=8b96b8ef3e6f66a4f9508d17f6ade8b3&amp;type=3#NodeIcon" />
+
+<ui:Template name="NodeIcon_ChengHao" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_ChengHao.uxml?fileID=9197481963319205126&amp;guid=077058964acd2114d8886615d55f9421&amp;type=3#NodeIcon_ChengHao" />
+
+<ui:Template name="NodeIcon_Clothing" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_Clothing.uxml?fileID=9197481963319205126&amp;guid=6215af16ae28a6d448f832eb1f8b1628&amp;type=3#NodeIcon_Clothing" />
+
+<ui:Template name="NodeIcon_Equipment" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_Equipment.uxml?fileID=9197481963319205126&amp;guid=37155a28537151140b45c934fb1adb52&amp;type=3#NodeIcon_Equipment" />
+
+<ui:Template name="NodeIcon_GetMoney" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_GetMoney.uxml?fileID=9197481963319205126&amp;guid=4d5acd1664afd774b9507fa0347c97ca&amp;type=3#NodeIcon_GetMoney" />
+
+<ui:Template name="NodeIcon_GetMoneyIItem" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_GetMoneyIItem.uxml?fileID=9197481963319205126&amp;guid=a1b7808d792e45c4f85bffeffcab8818&amp;type=3#NodeIcon_GetMoneyIItem" />
+
+<ui:Template name="NodeIcon_GiftBox" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_GiftBox.uxml?fileID=9197481963319205126&amp;guid=109ce79caabba0d499f8091b20802040&amp;type=3#NodeIcon_GiftBox" />
+
+<ui:Template name="NodeIcon_Money" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_Money.uxml?fileID=9197481963319205126&amp;guid=4ed35e9c42ae695468d2cf5552ce6ab5&amp;type=3#NodeIcon_Money" />
+
+<ui:Template name="NodeIcon_NodeDesc" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_NodeDesc.uxml?fileID=9197481963319205126&amp;guid=bcb0710e91032d34588e43f9259231eb&amp;type=3#NodeIcon_NodeDesc" />
+
+<ui:Template name="NodeIcon_SamllMoney" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_SamllMoney.uxml?fileID=9197481963319205126&amp;guid=c6c9349b97b402e48943eecc6be99637&amp;type=3#NodeIcon_SamllMoney" />
+
+<ui:Template name="NodeIcon_Tower" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeIcon_Tower.uxml?fileID=9197481963319205126&amp;guid=384bb871a5bd26d41b6f60bbc0a9fee1&amp;type=3#NodeIcon_Tower" />
+
+<ui:Template name="NodeTopItem" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeTopItem.uxml?fileID=9197481963319205126&amp;guid=61c1bfb77cbfef5409f2c7a5fee95fe3&amp;type=3#NodeTopItem" />
+
+<ui:Template name="NodeZhanDouLI" src="project://database/Assets/Resources/UIBuilder/NodeIcon/NodeZhanDouLI.uxml?fileID=9197481963319205126&amp;guid=698f1f208f53a9441bf29f061acb623b&amp;type=3#NodeZhanDouLI" />
+
+<ui:Template name="BuffDetailsItem" src="project://database/Assets/Resources/UIBuilder/PetSystem/BuffDetailsItem.uxml?fileID=9197481963319205126&amp;guid=da730a28a3812e046a55fdd22d476f5e&amp;type=3#BuffDetailsItem" />
+
+<ui:Template name="MyPetItem" src="project://database/Assets/Resources/UIBuilder/PetSystem/MyPetItem.uxml?fileID=9197481963319205126&amp;guid=595a54b14700d114fa1e62d573aff3ca&amp;type=3#MyPetItem" />
+
+<ui:Template name="PanelPet" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet.uxml?fileID=9197481963319205126&amp;guid=39d74f8ce6f66094885ac264d7d52a5d&amp;type=3#PanelPet" />
+
+<ui:Template name="PanelPet_BuffDetails" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_BuffDetails.uxml?fileID=9197481963319205126&amp;guid=f72306d5158ab8b4e999b25607fb64e8&amp;type=3#PanelPet_BuffDetails" />
+
+<ui:Template name="PanelPet_GetPet" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_GetPet.uxml?fileID=9197481963319205126&amp;guid=4b7a6b193709fb14988403edef0b154d&amp;type=3#PanelPet_GetPet" />
+
+<ui:Template name="PanelPet_PeiYuYuLan" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_PeiYuYuLan.uxml?fileID=9197481963319205126&amp;guid=439c52d1308fde54ba915e5dcdff3528&amp;type=3#PanelPet_PeiYuYuLan" />
+
+<ui:Template name="PanelPet_PetList" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_PetList.uxml?fileID=9197481963319205126&amp;guid=2d91edb976ff8c244bacae209b667630&amp;type=3#PanelPet_PetList" />
+
+<ui:Template name="PanelPet_PetYu" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_PetYu.uxml?fileID=9197481963319205126&amp;guid=a622a820ae636fc4fab2c8d1b98aab92&amp;type=3#PanelPet_PetYu" />
+
+<ui:Template name="PanelPet_Reset" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_Reset.uxml?fileID=9197481963319205126&amp;guid=9d79704b77fbe244a9d4254c2d170407&amp;type=3#PanelPet_Reset" />
+
+<ui:Template name="PanelPet_Rule" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_Rule.uxml?fileID=9197481963319205126&amp;guid=65809c4dd3d79e74595ea80fec970b51&amp;type=3#PanelPet_Rule" />
+
+<ui:Template name="PanelPet_ShengJiXiaoGuo" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_ShengJiXiaoGuo.uxml?fileID=9197481963319205126&amp;guid=25085c750c5d4f04bbc9b32a37cd1abc&amp;type=3#PanelPet_ShengJiXiaoGuo" />
+
+<ui:Template name="PanelPet_XiangQing" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_XiangQing.uxml?fileID=9197481963319205126&amp;guid=b1bf12b2166691d4aa278119cff33c57&amp;type=3#PanelPet_XiangQing" />
+
+<ui:Template name="PanelPet_YuLan" src="project://database/Assets/Resources/UIBuilder/PetSystem/PanelPet_YuLan.uxml?fileID=9197481963319205126&amp;guid=65dae302405cf61438d641adfcdc439f&amp;type=3#PanelPet_YuLan" />
+
+<ui:Template name="Pet_Item" src="project://database/Assets/Resources/UIBuilder/PetSystem/Pet_Item.uxml?fileID=9197481963319205126&amp;guid=aa1f1e033ce9b0c44b29eda7bacd1451&amp;type=3#Pet_Item" />
+
+<ui:Template name="PanelShop" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop.uxml?fileID=9197481963319205126&amp;guid=e37509a5ce39fc24282de892430c5f85&amp;type=3#PanelShop" />
+
+<ui:Template name="PanelShop_Chapter" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_Chapter.uxml?fileID=9197481963319205126&amp;guid=7d11511442cab8847b07081f00d38d07&amp;type=3#PanelShop_Chapter" />
+
+<ui:Template name="PanelShop_Coin" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_Coin.uxml?fileID=9197481963319205126&amp;guid=e122b8435ac9e774e80b8b79b50e8ff9&amp;type=3#PanelShop_Coin" />
+
+<ui:Template name="PanelShop_CoinItem2" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_CoinItem2.uxml?fileID=9197481963319205126&amp;guid=90d7b825226cfd0438f41b971cb0eed9&amp;type=3#PanelShop_CoinItem2" />
+
+<ui:Template name="PanelShop_DayShop" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_DayShop.uxml?fileID=9197481963319205126&amp;guid=0bf0bd4c487b6b24aa4ee97b16c95df5&amp;type=3#PanelShop_DayShop" />
+
+<ui:Template name="PanelShop_DayShopItem" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_DayShopItem.uxml?fileID=9197481963319205126&amp;guid=4747c0435005dd24ea07d8eb00f882b8&amp;type=3#PanelShop_DayShopItem" />
+
+<ui:Template name="PanelShop_DayShopItem2" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_DayShopItem2.uxml?fileID=9197481963319205126&amp;guid=86c15bb9d19255147ba2861b4b56015c&amp;type=3#PanelShop_DayShopItem2" />
+
+<ui:Template name="PanelShop_Fail" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_Fail.uxml?fileID=9197481963319205126&amp;guid=6788b7fbc065b814eb4456fba9c7d921&amp;type=3#PanelShop_Fail" />
+
+<ui:Template name="PanelShop_GaiLvEquipment" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_GaiLvEquipment.uxml?fileID=9197481963319205126&amp;guid=41ce948cd79d24c49951b719c93f27a0&amp;type=3#PanelShop_GaiLvEquipment" />
+
+<ui:Template name="PanelShop_Gem" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_Gem.uxml?fileID=9197481963319205126&amp;guid=5957139dee1d1764984badd7f7f2180e&amp;type=3#PanelShop_Gem" />
+
+<ui:Template name="PanelShop_GemItem2" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_GemItem2.uxml?fileID=9197481963319205126&amp;guid=8ce6bd9da9305e24da3d446cd11b4f4b&amp;type=3#PanelShop_GemItem2" />
+
+<ui:Template name="PanelShop_GiftBox" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_GiftBox.uxml?fileID=9197481963319205126&amp;guid=73b957c2c38b4ab45b81b7cc6608b141&amp;type=3#PanelShop_GiftBox" />
+
+<ui:Template name="PanelShop_Shop" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_Shop.uxml?fileID=9197481963319205126&amp;guid=07594c18a09cc364dab3eb462afed61f&amp;type=3#PanelShop_Shop" />
+
+<ui:Template name="PanelShop_Skin" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_Skin.uxml?fileID=9197481963319205126&amp;guid=ea9e6875852047045aba57488127953e&amp;type=3#PanelShop_Skin" />
+
+<ui:Template name="PanelShop_SkinDetails" src="project://database/Assets/Resources/UIBuilder/ShopSystem/PanelShop_SkinDetails.uxml?fileID=9197481963319205126&amp;guid=48e2e8f506a67f847b5e0282a7ec78ec&amp;type=3#PanelShop_SkinDetails" />
+
+<ui:Template name="ShopSkinItem" src="project://database/Assets/Resources/UIBuilder/ShopSystem/ShopSkinItem.uxml?fileID=9197481963319205126&amp;guid=0154172ab053b4a438247a96004a62d1&amp;type=3#ShopSkinItem" />
+
+<ui:Template name="PanelTalent" src="project://database/Assets/Resources/UIBuilder/TalentSystem/PanelTalent.uxml?fileID=9197481963319205126&amp;guid=b92507cc072f5484490309a7ae300383&amp;type=3#PanelTalent" />
+
+<ui:Template name="PanelTalentLeftItem" src="project://database/Assets/Resources/UIBuilder/TalentSystem/PanelTalentLeftItem.uxml?fileID=9197481963319205126&amp;guid=7f6f85a707ee5894fa4293c7d103aa0c&amp;type=3#PanelTalentLeftItem" />
+
+<ui:Template name="PanelTalentRightItem" src="project://database/Assets/Resources/UIBuilder/TalentSystem/PanelTalentRightItem.uxml?fileID=9197481963319205126&amp;guid=b2a9db3a56fecc94a86ec74fd6b471d0&amp;type=3#PanelTalentRightItem" />
+
+<ui:Template name="PanelTalent_AddPoint" src="project://database/Assets/Resources/UIBuilder/TalentSystem/PanelTalent_AddPoint.uxml?fileID=9197481963319205126&amp;guid=ac23cc00d249d724dbcdb3f439602470&amp;type=3#PanelTalent_AddPoint" />
+
+<ui:Template name="TalentItem" src="project://database/Assets/Resources/UIBuilder/TalentSystem/TalentItem.uxml?fileID=9197481963319205126&amp;guid=f748ccc6c89257f4497cbc4b70113e21&amp;type=3#TalentItem" />
+
+<ui:Template name="AchievementTask_Item" src="project://database/Assets/Resources/UIBuilder/TaskSystem/AchievementTask_Item.uxml?fileID=9197481963319205126&amp;guid=f4268ebf6e0a5f447bccf5c7bc09e289&amp;type=3#AchievementTask_Item" />
+
+<ui:Template name="BigAwardItem" src="project://database/Assets/Resources/UIBuilder/TaskSystem/BigAwardItem.uxml?fileID=9197481963319205126&amp;guid=ce056622de4e83c4b8db94e7731837a7&amp;type=3#BigAwardItem" />
+
+<ui:Template name="DayTask_Item" src="project://database/Assets/Resources/UIBuilder/TaskSystem/DayTask_Item.uxml?fileID=9197481963319205126&amp;guid=4b57cdc3525b4834d86d2fffb7c30529&amp;type=3#DayTask_Item" />
+
+<ui:Template name="PanelTask" src="project://database/Assets/Resources/UIBuilder/TaskSystem/PanelTask.uxml?fileID=9197481963319205126&amp;guid=5f3dd9ff7b8f93c42a1cf28d472d00c3&amp;type=3#PanelTask" />
+
+<ui:Template name="Panel_Get" src="project://database/Assets/Resources/UIBuilder/TaskSystem/Panel_Get.uxml?fileID=9197481963319205126&amp;guid=75e34635906b04d4cb9df7dfa3029679&amp;type=3#Panel_Get" />
+
+<ui:Template name="Sign_Item" src="project://database/Assets/Resources/UIBuilder/TaskSystem/Sign_Item.uxml?fileID=9197481963319205126&amp;guid=1c13bfbfa1f393b48955fd5ce563af88&amp;type=3#Sign_Item" />
+
+<ui:Template name="Sign_Item_A" src="project://database/Assets/Resources/UIBuilder/TaskSystem/Sign_Item_A.uxml?fileID=9197481963319205126&amp;guid=026c5f3a29a71d64da7ef88a73f8ddbc&amp;type=3#Sign_Item_A" />
+
+<ui:Template name="WeekTask_Item" src="project://database/Assets/Resources/UIBuilder/TaskSystem/WeekTask_Item.uxml?fileID=9197481963319205126&amp;guid=1a356c7ad7ced48408c2d44525393b53&amp;type=3#WeekTask_Item" />
+
+<ui:Template name="DeployTowerItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/DeployTowerItem.uxml?fileID=9197481963319205126&amp;guid=1b68d588d53313f4eb151a7c109308ba&amp;type=3#DeployTowerItem" />
+
+<ui:Template name="ElfBuffDetailsItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/ElfBuffDetailsItem.uxml?fileID=9197481963319205126&amp;guid=3136658f7a231ea499ba1956fb492a11&amp;type=3#ElfBuffDetailsItem" />
+
+<ui:Template name="PanelTower" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower.uxml?fileID=9197481963319205126&amp;guid=4d3cc94cb057fd3499a8f60d41766524&amp;type=3#PanelTower" />
+
+<ui:Template name="PanelTower_BuffTanKuang" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_BuffTanKuang.uxml?fileID=9197481963319205126&amp;guid=ec2c425ab2b129a42b79f525c9f6754a&amp;type=3#PanelTower_BuffTanKuang" />
+
+<ui:Template name="PanelTower_DeployTower" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_DeployTower.uxml?fileID=9197481963319205126&amp;guid=b96f23847587575409708549333565fa&amp;type=3#PanelTower_DeployTower" />
+
+<ui:Template name="PanelTower_DeployTower_ShangZhen" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_DeployTower_ShangZhen.uxml?fileID=9197481963319205126&amp;guid=332449b3d8b77d440a1bc11d427b1862&amp;type=3#PanelTower_DeployTower_ShangZhen" />
+
+<ui:Template name="PanelTower_ElfDetails" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_ElfDetails.uxml?fileID=9197481963319205126&amp;guid=66c237eaa840f7a41b7a993da115ee83&amp;type=3#PanelTower_ElfDetails" />
+
+<ui:Template name="PanelTower_JinJie" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_JinJie.uxml?fileID=9197481963319205126&amp;guid=129168ee2375cc34ba21b92f4ef380a1&amp;type=3#PanelTower_JinJie" />
+
+<ui:Template name="PanelTower_TuJian" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_TuJian.uxml?fileID=9197481963319205126&amp;guid=0b5b2a37bc93a1a42ab5cb699fa1cffa&amp;type=3#PanelTower_TuJian" />
+
+<ui:Template name="PanelTower_XiangQing" src="project://database/Assets/Resources/UIBuilder/TowerSystem/PanelTower_XiangQing.uxml?fileID=9197481963319205126&amp;guid=f7816d37d1ab56d4c939728cd0b47c8e&amp;type=3#PanelTower_XiangQing" />
+
+<ui:Template name="ShowTower" src="project://database/Assets/Resources/UIBuilder/TowerSystem/ShowTower.uxml?fileID=9197481963319205126&amp;guid=79b72843b360bec46a1c77f59a90d03c&amp;type=3#ShowTower" />
+
+<ui:Template name="TuJianItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/TuJianItem.uxml?fileID=9197481963319205126&amp;guid=69a15ac52e25d3145a8a12796cbccbdc&amp;type=3#TuJianItem" />
+
+<ui:Template name="TuJianJieItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/TuJianJieItem.uxml?fileID=9197481963319205126&amp;guid=a8838ca83c4949b42987f797aaa25314&amp;type=3#TuJianJieItem" />
+
+<ui:Template name="XiangQingShengJiBuffDescItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/XiangQingShengJiBuffDescItem.uxml?fileID=9197481963319205126&amp;guid=1012c93c1ceff774e954e623f05e2351&amp;type=3#XiangQingShengJiBuffDescItem" />
+
+<ui:Template name="XiangQingShengJiBuffItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/XiangQingShengJiBuffItem.uxml?fileID=9197481963319205126&amp;guid=0636703aa72ef6443ad3f5f048377a91&amp;type=3#XiangQingShengJiBuffItem" />
+
+<ui:Template name="XiangQingShengJiItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/XiangQingShengJiItem.uxml?fileID=9197481963319205126&amp;guid=33175a954537f4c41ade694980b68ca3&amp;type=3#XiangQingShengJiItem" />
+
+<ui:Template name="XiangQingShengXingItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/XiangQingShengXingItem.uxml?fileID=9197481963319205126&amp;guid=fb404a666913b144f81b1cdb2c365ed1&amp;type=3#XiangQingShengXingItem" />
+
+<ui:Template name="ZhenRongItem" src="project://database/Assets/Resources/UIBuilder/TowerSystem/ZhenRongItem.uxml?fileID=9197481963319205126&amp;guid=dcc24cd74260e5445b7cb526221eca44&amp;type=3#ZhenRongItem" />

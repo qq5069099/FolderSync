@@ -1,0 +1,7 @@
+
+安装与启动:
+	FolderSync /install
+	net start FolderSync
+
+删除服务:
+	FolderSync /uninstall

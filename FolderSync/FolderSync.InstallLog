@@ -1,0 +1,14 @@
+﻿正在安装程序集“C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.exe”。
+受影响的参数是:
+   assemblypath = C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.exe
+   logfile = C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.InstallLog
+正在安装服务 FolderSync...
+已成功安装服务 FolderSync。
+正在日志 Application 中创建 EventLog 源 FolderSync...
+查看日志文件的内容以获得 C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.exe 程序集的进度。
+该文件位于 C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.InstallLog。
+正在提交程序集“C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.InstallLog
+   assemblypath = C:\Users\50690\Desktop\Xgame\FolderSync\FolderSync\FolderSync.exe
